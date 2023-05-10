@@ -1,12 +1,12 @@
 <%- include('./head', {container:false}) %>
 
-
-<a href="/overviewpage"> 
+ <a class="linkie" href="/overviewpage">
     <div class="backtab">
         <img src="/arrow-back.png" alt="back arrow">
         <h3>Tekenmethodes</h3>
     </div>
 </a>
+
 
 <div class="nav">
     <a href="#beschrijving">Beschrijving</a>
@@ -18,9 +18,9 @@
 
 <div class="main-detailpage">
     <h1><%- method.title %></h1>
-    <section class="beschrijving" id="beschrijving">
-        <%- method.description.html %>  
-        <img src="<%- method.template.url %>" alt="Method Template">  
+    <section class="beschrijving " id="beschrijving">
+        <img src="<%- method.template.url %>" alt="<%- method.template.url %>"tekening>
+        <%- method.description.html %>    
     </section>
     <div class="buttondeel">
      <button id="stappenplanbutton">

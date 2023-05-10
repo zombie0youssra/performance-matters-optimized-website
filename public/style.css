@@ -210,6 +210,9 @@ section.line-2 {
   font-size: 1.5rem;
 }
 
+
+
+
 /* overviewpage styling */
 
 .overviewpage-header{
@@ -432,19 +435,32 @@ footer h3{
 }
 
 
+
+
+
+
+
+
 /* detailpage styling */
+
+.linkie{
+   text-decoration: none; 
+}
 
 .backtab{
     height: 3em;
     width: 100%;
-    background-color: #31439c;
+    background-color: var(--sec-colors-06);
     display: flex;
     justify-content: flex-start;
     align-items: center;
 }
+
 .backtab h3{
+    font-family: var(--rigid);
     color: white;
 }
+
 .backtab img{
     margin: 1em 1em 1em 1em;
 }
@@ -454,6 +470,7 @@ footer h3{
     height: 4em;
     width: 100%;
     margin-top: 0;
+    margin-bottom: 2em;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -463,7 +480,7 @@ footer h3{
 .nav a{
     text-decoration: none;
     font: var(--broodtekst);
-    font-size: 1.6em;
+    font-size: 20px;
     color: var(--text-color);
     font-weight: bold;
 }
@@ -476,22 +493,31 @@ footer h3{
 
 .main-detailpage{
     margin-left: 2em;
-    font-size: 1.5em;
+    font-size: 20px;
+    color: var(--text-color);
+    width: 80vw;
 }
 
 .main-detailpage img{
     width: 15em;
     height: auto;
+    border-left: var(--interactive-el-color) 11px solid;
+    border-radius: 6px;
+    -webkit-box-shadow: 12px 9px 11px -6px rgba(0, 0, 0, 0.37);
+     box-shadow: 12px 9px 11px -6px rgba(0, 0, 0, 0.37);
 }
 
 .main-detailpage h1{
-    color: var(--text-color);;
+    color: var(--text-color);
+    font-size: 24px;
 }
 .main-detailpage h2{
-    color: var(--text-color);;
+    color: var(--text-color);
+    font-size: 22px;
 }
 .main-detailpage h3{
-    color: var(--text-color);;
+    color: var(--text-color);
+    font-size: 18px;
 }
 .main-detailpage h4{
     color: var(--text-color);;
@@ -524,8 +550,10 @@ footer h3{
 }
 
 #stappenplanbutton img{
+    border: none;
     width: 3em;
     height: 3em;
+    box-shadow: none;
 }
 
 #stappenplanbutton img:hover{
