@@ -29,4 +29,3 @@ function search() {
       method.hidden = !method.textContent.toLowerCase().includes(searchValue);
     });
   }
-}
