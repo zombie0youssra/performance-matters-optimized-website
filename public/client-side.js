@@ -30,3 +30,5 @@ function search() {
     });
   }
 }
+
+// favorieten opslaan
