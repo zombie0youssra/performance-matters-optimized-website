@@ -466,7 +466,7 @@ footer h3{
 }
 
 .nav{
-    background-color: var(--text-color-var04);
+    background-color: var(--grey-colors-03);
     height: 4em;
     width: 100%;
     margin-top: 0;
@@ -510,14 +510,17 @@ footer h3{
 .main-detailpage h1{
     color: var(--text-color);
     font-size: 24px;
+    font-family: var(--rigid);
 }
 .main-detailpage h2{
     color: var(--text-color);
     font-size: 22px;
+    font-family: var(--rigid);
 }
 .main-detailpage h3{
     color: var(--text-color);
     font-size: 18px;
+    font-family: var(--rigid);
 }
 .main-detailpage h4{
     color: var(--text-color);;
@@ -575,6 +578,26 @@ blockquote{
 
 ol{
     list-style-type: none;
+}
+
+form{
+    margin-top: 2em;
+    width: 20em;
+}
+
+form label{
+   font-family: var(--broodtekst);
+   font-size: 22px;
+}
+
+form input{
+    margin-bottom: 0.5em;
+}
+
+fieldset{
+    display: flex;
+    flex-direction:column;
+    border: none;
 }
 
 
