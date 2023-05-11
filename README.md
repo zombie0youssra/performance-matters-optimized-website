@@ -28,6 +28,15 @@ https://dull-lime-dalmatian-fez.cyclic.app/
 
 ## Gebruik
 <!-- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
+## opdracht
+Ontwerp en maak met een team een website voor een opdrachtgever waarbij je verschillende performance technieken toepast.
+
+### userstory's
+
+* [Als docent wil ik favoriete werkvormen kunnen opslaan zodat ik later makkelijk mijn favoriete werkvormen kan terugvinden](https://github.com/fdnd-agency/visual-thinking/issues/7)
+* [Als docent wil ik een reactie kunnen schrijven op een werkvorm zodat ik zelf kan aangeven wat ik de toegevoegde waarde vind van een werkvorm](https://github.com/fdnd-agency/visual-thinking/issues/8)
+
+## what it do 🚶
 
 Je kan op onze overviewpagina alle methodes bekijken.
 De methodes zijn color coded en je kan met de zoekbalk gebruiken om specefieke methodes te vinden.
