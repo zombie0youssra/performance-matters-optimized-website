@@ -19,6 +19,9 @@
 <!-- Voeg een mooie poster visual toe 📸 -->
 <img width="921" alt="image" src="https://github.com/zombie0youssra/performance-matters-optimized-website/assets/112857270/bf39b405-6f9f-4a5e-8c0d-5c21fe983c56">
 
+<img width="940" alt="image" src="https://github.com/zombie0youssra/performance-matters-optimized-website/assets/112857270/649742c0-d514-4715-a9cd-95ad21cdda63">
+
+
 
 <!-- Voeg een link toe naar Github Pages 🌐-->
 https://dull-lime-dalmatian-fez.cyclic.app/
