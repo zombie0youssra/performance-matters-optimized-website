@@ -28,7 +28,7 @@ https://dull-lime-dalmatian-fez.cyclic.app/
 
 ## Gebruik
 <!-- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
-## opdracht
+### opdracht
 Ontwerp en maak met een team een website voor een opdrachtgever waarbij je verschillende performance technieken toepast.
 
 ### userstory's
