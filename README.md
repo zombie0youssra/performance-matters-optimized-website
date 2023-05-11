@@ -28,14 +28,8 @@ https://dull-lime-dalmatian-fez.cyclic.app/
 
 Je kan op onze overviewpagina alle methodes bekijken.
 De methodes zijn color coded en je kan met de zoekbalk gebruiken om specefieke methodes te vinden.
-
-<img width="921" alt="image" src="https://github.com/zombie0youssra/performance-matters-optimized-website/assets/112857270/22443fad-be47-4255-a8fc-e66bd2c84728">
-
 Wanneer je een methode hebt uitgekozen wordt je doorgestuurd naar de detailpagina.
 Op de detailpagina vind je de beschrijving van de methode zelf en hoe je de methode kan gebruiken.
-
-<img width="921" alt="image" src="https://github.com/zombie0youssra/performance-matters-optimized-website/assets/112857270/cbd92300-5d26-4e54-92ba-7ef69cb7663a">
-
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? Misschien heb je iets met NodeJS gedaan, of heb je een framwork of library gebruikt? -->
