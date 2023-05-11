@@ -81,7 +81,6 @@ body.index {
 }
 
 main.index {
-  /* dit ziet er ingewikkeld uit, maar dit is de layout nodig voor een hexagon patroon */
   display: flex;
   flex-direction: column;
   gap: var(--line-gap);
@@ -92,6 +91,7 @@ main.index {
   margin-right: auto;
   width: calc(var(--hexagon-width) * 3.5);
   background-color: var(--interactive-el-color-var03);
+  overflow: hidden;
 }
 
 section.line-1 {
